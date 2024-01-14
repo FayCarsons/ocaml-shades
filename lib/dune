@@ -1,0 +1,4 @@
+(library
+ (name palettes)
+ (public_name palettes)
+ (wrapped false))
