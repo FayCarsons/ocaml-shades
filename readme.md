@@ -6,5 +6,5 @@ explored via autocomplete.
 To preview palettes, clone the repo (or copy the HTML file in the root) and 
 serve it locally.
 
-This library does not use any sort of versioning as it will likely not change 
+This library does not use any sort of versioning as it will likely not change, 
 and in the case it does palettees will be added but not removed.

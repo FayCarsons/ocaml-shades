@@ -1,4 +1,4 @@
 (library
- (name palettes)
- (public_name palettes)
+ (name shade)
+ (public_name shade)
  (wrapped false))

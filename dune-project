@@ -1,7 +1,7 @@
 (lang dune 3.12)
 
-(name palettes)
-
+(name shade)
+(version 0.1)
 (generate_opam_files true)
 
 (source
@@ -14,7 +14,7 @@
 (license MIT)
 
 (package
- (name palettes)
- (synopsis "A collection of color palettes for OCaml")
- (description "A collection of color palettes for OCaml, each represented by an associative list of (string * (float * float * float) list)")
+ (name shade)
+ (synopsis "OCaml color palettes")
+ (description "A collection of R color palettes reformatted for OCaml")
  (depends ocaml dune))
