@@ -1,6 +1,6 @@
 (lang dune 3.12)
 
-(name shade)
+(name shades)
 (version 0.1)
 (generate_opam_files true)
 
@@ -14,7 +14,7 @@
 (license MIT)
 
 (package
- (name shade)
+ (name shades)
  (synopsis "OCaml color palettes")
  (description "A collection of R color palettes reformatted for OCaml")
  (depends ocaml dune))
