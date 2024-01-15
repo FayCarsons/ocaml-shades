@@ -3,11 +3,11 @@ opam-version: "2.0"
 version: "0.1"
 synopsis: "OCaml color palettes"
 description: "A collection of R color palettes reformatted for OCaml"
-maintainer: ["Fay Carsons"]
+maintainer: ["faycarsons23@gmail.com"]
 authors: ["Fay Carsons"]
 license: "MIT"
-homepage: "https://github.com/faycarsons/ocaml-palettes"
-bug-reports: "https://github.com/faycarsons/ocaml-palettes/issues"
+homepage: "https://github.com/faycarsons/ocaml-shades"
+bug-reports: "https://github.com/faycarsons/ocaml-shades/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.12"}
@@ -27,4 +27,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/faycarsons/ocaml-palettes.git"
+dev-repo: "git+https://github.com/faycarsons/ocaml-shades.git"
