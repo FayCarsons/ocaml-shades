@@ -11,7 +11,7 @@ bug-reports: "https://github.com/FayCarsons/ocaml-shades/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.12"}
-  "odoc" {with-doc}
+  "odoc"
 ]
 build: [
   ["dune" "subst"] {dev}

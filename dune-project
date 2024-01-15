@@ -16,4 +16,4 @@
  (name shades)
  (synopsis "OCaml color palettes")
  (description "A collection of R color palettes reformatted for OCaml")
- (depends ocaml dune))
+ (depends ocaml dune odoc))

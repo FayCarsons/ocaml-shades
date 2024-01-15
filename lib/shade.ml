@@ -1,5 +1,8 @@
+(** Color type for convenience *)
 type color = float * float * float
 
+(** Taken from Blake R. Mills 'Metbrewer' R package. 
+    Conains palettes which are lists of (float * float * float) tuples *)
 module Met = struct
   let manet =
     [
@@ -565,6 +568,7 @@ module Met = struct
     ]
 end
 
+(** Taken from Jake Lawlor's 'PNWColors' R package *)
 module Pnw = struct
   let moth =
     [
@@ -709,6 +713,7 @@ module Pnw = struct
     ]
 end
 
+(** Taken from Karthik Ram's 'wesanderson' R package *)
 module WesAnderson = struct
   let zissou1 =
     [
@@ -873,6 +878,7 @@ module WesAnderson = struct
     ]
 end
 
+(** Taken from Antonio Páez's 'MexBrewer' R package *)
 module MexBrewer = struct
   let casita1 =
     [
