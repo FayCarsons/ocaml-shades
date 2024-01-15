@@ -8,8 +8,7 @@
  (github faycarsons/ocaml-palettes))
 
 (authors "Fay Carsons")
-
-(maintainers "Fay Carsons")
+(maintainers "faycarsons23@gmail.com")
 
 (license MIT)
 
