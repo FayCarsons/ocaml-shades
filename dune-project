@@ -5,7 +5,7 @@
 (generate_opam_files true)
 
 (source
- (github faycarsons/ocaml-shades))
+ (github FayCarsons/ocaml-shades))
 
 (authors "Fay Carsons")
 (maintainers "faycarsons23@gmail.com")

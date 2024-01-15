@@ -6,8 +6,8 @@ description: "A collection of R color palettes reformatted for OCaml"
 maintainer: ["faycarsons23@gmail.com"]
 authors: ["Fay Carsons"]
 license: "MIT"
-homepage: "https://github.com/faycarsons/ocaml-shades"
-bug-reports: "https://github.com/faycarsons/ocaml-shades/issues"
+homepage: "https://github.com/FayCarsons/ocaml-shades"
+bug-reports: "https://github.com/FayCarsons/ocaml-shades/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.12"}
@@ -27,4 +27,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/faycarsons/ocaml-shades.git"
+dev-repo: "git+https://github.com/FayCarsons/ocaml-shades.git"
